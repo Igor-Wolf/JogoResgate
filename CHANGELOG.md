@@ -1,16 +1,14 @@
-# Change Log v. 1.1
+# Change Log v. 1.01
 
 
 ### 💡 Features Added
 
 - Projeto criado com sucesso
-- Adicionado um placar
-- Adicionada responsividade para mobile
-  
 
+  
 ### 🕷️ Bugs Reported
 
-- 
+- Não possui responsividade com mobile
 
 
 ### 🔧 Issues Fixeds
